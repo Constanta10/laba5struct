@@ -1,0 +1,2 @@
+Tree 2 is empty.
+Cannot check subtree relationship as one of the trees is empty.
